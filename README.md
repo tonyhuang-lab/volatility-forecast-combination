@@ -18,6 +18,12 @@ The analysis uses publicly available U.S. equity market data from 2000–2025. T
 
 The empirical analysis is currently under development. Preliminary experiments suggest that forecast combination methods may improve volatility prediction accuracy relative to individual HAR model specifications across several evaluation metrics, including MSE and QLIKE. Further analysis will evaluate performance across different assets and forecasting horizons.
 
+## Future Work
+
+- Implement additional forecast combination schemes
+- Compare performance across different volatility models
+- Evaluate robustness across alternative time horizons
+
 ## Technologies
 
 Python  
