@@ -4,6 +4,10 @@
 
 This project explores forecast combination methods for financial volatility prediction using time-series models. The objective is to improve forecasting accuracy during periods of market uncertainty by combining information from multiple volatility models.
 
+## Project Status
+
+This project is currently under development as part of my honours research on volatility forecasting and forecast combination methods. The repository will be updated regularly as new experiments, models, and results are completed.
+
 ## Methods
 
 The modelling framework is based on the Heterogeneous Autoregressive (HAR) model, a commonly used approach for capturing long-memory dynamics in financial volatility. This project implements forecast combination techniques to integrate predictions from multiple econometric specifications.
